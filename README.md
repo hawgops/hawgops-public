@@ -8,6 +8,7 @@ To create bug reports or suggest features, please use the templates located [her
 
 ## Hawg View
 ![version](https://img.shields.io/badge/Version-v4-brightgreen)
+![released](https://img.shields.io/badge/Released-26_Oct_2023-blue)
 
 Originally created by Neo, but lost to time, Porkins resurrected Hawg View, greatly enhancing the capabilities to the warfighter.
 Users are able to generate scenarios, add ground unit markers, shapes, analyze, and collaborate on scenarios.
@@ -50,6 +51,7 @@ Users are able to generate scenarios, add ground unit markers, shapes, analyze, 
 
 ## Hawg View | Plan
 ![version](https://img.shields.io/badge/Version-v1-brightgreen)
+![released](https://img.shields.io/badge/Released-22_Oct_2023-blue)
 
 Previously at hawg-ops.com/plan, creates a quick one-stop-shop to make decisions as a SOF or mission plan prior to sortie, aggregating weather information
 
@@ -59,6 +61,7 @@ Previously at hawg-ops.com/plan, creates a quick one-stop-shop to make decisions
 
 ## Hawg View | Logbook reader
 ![version](https://img.shields.io/badge/Version-v1-brightgreen)
+![released](https://img.shields.io/badge/Released-07_Dec_2022-blue)
 
 Scan in and digitize your USAF Individual Flight Training Summary form.
 
@@ -66,6 +69,7 @@ Scan in and digitize your USAF Individual Flight Training Summary form.
 
 ## Hawg View | Symbol server
 ![version](https://img.shields.io/badge/Version-v1-brightgreen)
+![released](https://img.shields.io/badge/Released-26_May_2023-blue)
 
 Used to host static image files for Google Earth KML files, generate and save the markers and symbols used in Hawg View as vector graphics (.svg) or raster images (.png)
 
