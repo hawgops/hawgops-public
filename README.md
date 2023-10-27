@@ -3,6 +3,9 @@
 Hawg View aims to provide a place to mission plan using open source information.
 Instructors across multiple career fields such as Intel, Pilot, TACP, etc... can use Hawg View to generate scenario products for sorties.
 
+## Contributing
+To create bug reports or suggest features, please use the templates located [here](https://github.com/hawgview/hawgview-public/issues/new/choose)
+
 ## Hawg View
 ![version](https://img.shields.io/badge/Version-v4-brightgreen)
 
