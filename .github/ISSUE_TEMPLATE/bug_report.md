@@ -7,6 +7,12 @@ assignees: chris-m92
 
 ---
 
+**What service are you writing the bug about? (Delete services not applicable)**
+Hawg View | CAS Planner
+Hawg View | Mission Planner (Weather gonkulator)
+Hawg View | Symbol Server (Symbol hosting for KML files)
+Hawg View | Logbook Reader (USAF IFTS text scanner)
+
 **Describe the bug**
 A clear and concise description of what the bug is.
 
