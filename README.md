@@ -57,7 +57,7 @@ Previously at hawg-ops.com/plan, creates a quick one-stop-shop to make decisions
 
 **SITE:** [https://plan.hawg-ops.com](https://plan.hawg-ops.com)
 
-**DOCUMENTATION:** [https://plan.hawg-ops.com/docs](https://plan.hawg-ops.com/docs)
+**DOCUMENTATION:** [https://docs.plan.hawg-ops.com](https://docs.plan.hawg-ops.com)
 
 ## Hawg View | Logbook reader
 ![version](https://img.shields.io/badge/Version-v1-brightgreen?style=for-the-badge)
