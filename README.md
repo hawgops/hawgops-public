@@ -1,23 +1,23 @@
-# Hawg View Mission Planning Tools
+# HawgOps Mission Planning Tools
 
-Hawg View aims to provide a place to mission plan using open source information.
-Instructors across multiple career fields such as Intel, Pilot, TACP, etc... can use Hawg View to generate scenario products for sorties.
+HawgOps aims to provide a place to mission plan using open source information.
+Instructors across multiple career fields such as Intel, Pilot, TACP, etc... can use HawgOps to generate scenario products for sorties.
 
 ## Contributing
-To create bug reports or suggest features, please use the templates located [here](https://github.com/hawgview/hawgview-public/issues/new/choose)
+To create bug reports or suggest features, please use the templates located [here](https://github.com/hawgops/hawgops-public/issues/new/choose)
 
-## Hawg View
+## HawgOps
 ![version](https://img.shields.io/badge/Version-v4-brightgreen?style=for-the-badge)
 ![released](https://img.shields.io/badge/Released-26_Oct_2023-blue?style=for-the-badge)
 ![status](https://status.hawg-ops.com/api/badge/1/status?style=for-the-badge)
 ![uptime](https://status.hawg-ops.com/api/badge/1/uptime?style=for-the-badge)
 
-Originally created by Neo, but lost to time, Porkins resurrected Hawg View, greatly enhancing the capabilities to the warfighter.
+Originally created by Neo, but lost to time, Porkins resurrected HawgOps, greatly enhancing the capabilities to the warfighter.
 Users are able to generate scenarios, add ground unit markers, shapes, analyze, and collaborate on scenarios.
 
 **SITE:** [https://hawg-ops.com](https://hawg-ops.com)
 
-**DOCUMENTATION:** [https://hawg-ops.com/docs](https://hawg-ops.com/docs)
+**DOCUMENTATION:** [https://docs.hawg-ops.com](https://docs.hawg-ops.com)
 
 ### Features
 #### Markers
@@ -46,14 +46,14 @@ Users are able to generate scenarios, add ground unit markers, shapes, analyze, 
 * View weather radar and satellite picture
 #### Save and share
 * Create and save/load templates allowing you to granularly decide what is saved
-* Scenario as Hawg View text file
+* Scenario as HawgOps text file
 * Scenario as comma separated value (CSV) list for use with Excel analysis
 * Scenario as Google Earth KML file
 * Save/load preferences
 
-## Hawg View | Plan
-![version](https://img.shields.io/badge/Version-v1-brightgreen?style=for-the-badge)
-![released](https://img.shields.io/badge/Released-22_Oct_2023-blue?style=for-the-badge)
+## HawgOps | Plan
+![version](https://img.shields.io/badge/Version-v2-brightgreen?style=for-the-badge)
+![released](https://img.shields.io/badge/Released-04_May_2024-blue?style=for-the-badge)
 ![status](https://status.hawg-ops.com/api/badge/2/status?style=for-the-badge)
 ![uptime](https://status.hawg-ops.com/api/badge/2/uptime?style=for-the-badge)
 
@@ -63,7 +63,7 @@ Previously at hawg-ops.com/plan, creates a quick one-stop-shop to make decisions
 
 **DOCUMENTATION:** [https://docs.plan.hawg-ops.com](https://docs.plan.hawg-ops.com)
 
-## Hawg View | Logbook reader
+## HawgOps | Logbook reader
 ![version](https://img.shields.io/badge/Version-v1-brightgreen?style=for-the-badge)
 ![released](https://img.shields.io/badge/Released-07_Dec_2022-blue?style=for-the-badge)
 ![status](https://status.hawg-ops.com/api/badge/11/status?style=for-the-badge)
@@ -73,15 +73,15 @@ Scan in and digitize your USAF Individual Flight Training Summary form.
 
 **SITE:** [https://logbook.hawg-ops.com](https://logbook.hawg-ops.com
 
-## Hawg View | Symbol server
-![version](https://img.shields.io/badge/Version-v1-brightgreen?style=for-the-badge)
-![released](https://img.shields.io/badge/Released-26_May_2023-blue?style=for-the-badge)
+## HawgOps | Symbol
+![version](https://img.shields.io/badge/Version-v2-brightgreen?style=for-the-badge)
+![released](https://img.shields.io/badge/Released-30_Jan_2024-blue?style=for-the-badge)
 ![status](https://status.hawg-ops.com/api/badge/3/status?style=for-the-badge)
 ![uptime](https://status.hawg-ops.com/api/badge/3/uptime?style=for-the-badge)
 
-Used to host static image files for Google Earth KML files, generate and save the markers and symbols used in Hawg View as vector graphics (.svg) or raster images (.png)
+Used to host static image files for Google Earth KML files, generate and save the markers and symbols used in HawgOps as vector graphics (.svg) or raster images (.png)
 
 **SITE:** [https://symbol.hawg-ops.com](https://symbol.hawg-ops.com)
 
 ## Other sites and helpful folks
-* Viperops - F-16 version of Hawg View for OCA/DCA/MCO missions flown by the F-16. Thanks to Tron for making that site and the 3D globe view which is linked to via markers and map in Hawg View.
+* Viperops - F-16 version of HawgOps for OCA/DCA/MCO missions flown by the F-16. Thanks to Tron for making that site and the 3D globe view which is linked to via markers and map in HawgOps.
