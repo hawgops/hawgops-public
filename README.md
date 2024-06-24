@@ -17,7 +17,7 @@ Users are able to generate scenarios, add ground unit markers, shapes, analyze, 
 
 **SITE:** [https://hawg-ops.com](https://hawg-ops.com)
 
-**DOCUMENTATION:** [https://docs.hawg-ops.com](https://docs.hawg-ops.com)
+**DOCUMENTATION:** [https://docs.hawg-ops.com/cas](https://docs.hawg-ops.com/cas)
 
 ### Features
 #### Markers
@@ -61,7 +61,7 @@ Previously at hawg-ops.com/plan, creates a quick one-stop-shop to make decisions
 
 **SITE:** [https://plan.hawg-ops.com](https://plan.hawg-ops.com)
 
-**DOCUMENTATION:** [https://docs.plan.hawg-ops.com](https://docs.plan.hawg-ops.com)
+**DOCUMENTATION:** [https://docs.hawg-ops.com/plan](https://docs.hawg-ops.com/plan)
 
 ## HawgOps | Logbook reader
 ![version](https://img.shields.io/badge/Version-v1-brightgreen?style=for-the-badge)
@@ -71,7 +71,7 @@ Previously at hawg-ops.com/plan, creates a quick one-stop-shop to make decisions
 
 Scan in and digitize your USAF Individual Flight Training Summary form.
 
-**SITE:** [https://logbook.hawg-ops.com](https://logbook.hawg-ops.com
+**SITE:** [https://logbook.hawg-ops.com](https://logbook.hawg-ops.com)
 
 ## HawgOps | Symbol
 ![version](https://img.shields.io/badge/Version-v2-brightgreen?style=for-the-badge)
